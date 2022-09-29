@@ -39,11 +39,11 @@ global.APIKeys = {
 global.autoTyping = false //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = false //auto reading in gc (true to on, false to off)
-global.autoRecord = false //auto recording (true to on, false to off)
+global.autoRecord = true //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
 //semt menu variants
-global.vidmenu = fs.readFileSync("./XeonMedia/theme/Cheems-bot.mp4") //gif and video menu
+global.vidmenu = fs.readFileSync("https://i.imgur.com/YAjojnX.mp4") //gif and video menu
 
 //documents variants
 global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -55,28 +55,28 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.vcardowner = ['919745580745'] //ur owner number
-global.ownername = "🦄Dream Guy Xeon" //ur owner name
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.ownername = "ꪶ⛧͢ɪͥᴛͭsᷤ ᴍͫᴇͤ￫ 𝙲͢𝟸᮫ ͎ᴀⷶʙⷡ᷍ʜⷩɪ̶ ͥ" //ur owner name
+global.ytname = "INSTA:c2__abhi" //ur yt chanel name
+global.socialm = "c2__abhi" //ur github or insta name
+global.location = "India, Kerala, mlp" //ur location
 
 //bot bomdy 
 global.owner = ['919745580745']
 global.ownertag = '919745580745' //ur tag number
 global.botname = 'ꪶ⛧͢ɪͥᴛͭsᷤ ᴍͫᴇͤ￫ 𝙲͢𝟸᮫ ͎ᴀⷶʙⷡ᷍ʜⷩɪ̶ ͥ' //ur bot name
-global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
+global.linkz = "https://www.instagram.com/reel/CaIJwNuh1nE/?igshid=MTA0ZTI1NzA=" //your theme url which will be displayed on whatsapp
+global.websitex = "https://www.instagram.com/reel/CaIJwNuh1nE/?igshid=MTA0ZTI1NzA=" //ur website to be displayed
+global.botscript = 'https://wa.me/919745580745?text=_៚ʜᴇʟʟᴏ+ᴀʙʜɪ+sᴇʀ+ʙɪɢ+ғᴀɴ+ᴠʀᴏ+🪄_#' //script link
 global.reactmoji = "🙂" //ur menu react emoji
 global.themeemoji = "💕" //ur theme emoji
 global.packname = "ꪶ⛧͢ɪͥᴛͭsᷤ ᴍͫᴇͤ￫ 𝙲͢𝟸᮫ ͎ᴀⷶʙⷡ᷍ʜⷩɪ̶ ͥ" //ur sticker watermark packname
 global.author = "ᬤ൬ࣶྂ ➝➛ സ്വ᳒͢ന്ത◕ സ᭄͢ꫧ മ͎ഹꪆල͢ᘡക്ഷᤨ͟മ᭄" //ur sticker watermark author
 
 //Bot theme media
-global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur logo pic
-global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
-global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
+global.thum = fs.readFileSync("https://i.imgur.com/myrA2PV.jpeg") //ur thumb pic
+global.log0 = fs.readFileSync("https://i.imgur.com/ocvo0uN.jpeg") //ur logo pic
+global.err4r = fs.readFileSync("https://i.imgur.com/ZZ9Yhiz.jpeg") //ur error pic
+global.thumb = fs.readFileSync("https://i.imgur.com/vUsVYXz.jpeg") //ur thumb pic
 
 //damtabase
 global.premium = ['919745580745'] //ur premium numbers
@@ -133,7 +133,7 @@ global.mess = {
    umpanawal: 5,
    potionawal: 1
 }
-global.thumb = fs.readFileSync('./XeonMedia/theme/cheemspic.jpg')
+global.thumb = fs.readFileSync('https://i.imgur.com/vUsVYXz.jpeg')
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.flarun = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
